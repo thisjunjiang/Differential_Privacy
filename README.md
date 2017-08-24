@@ -3,6 +3,6 @@ This is my research project about differential privacy.
 
 Some plots from experiments:
 
-[qqplot_count.pdf](https://github.com/thisjunjiang/Differential_Privacy/files/1250447/qqplot_count.pdf)
-[qqplot_bernoulli.pdf](https://github.com/thisjunjiang/Differential_Privacy/files/1250448/qqplot_bernoulli.pdf)
-[qqplot_pb.pdf](https://github.com/thisjunjiang/Differential_Privacy/files/1250449/qqplot_pb.pdf)
+![qqplot_pb](https://user-images.githubusercontent.com/14324327/29692868-224afc10-88e7-11e7-9c22-53011465afc4.png)
+![qqplot_bernoulli](https://user-images.githubusercontent.com/14324327/29692866-2243b112-88e7-11e7-9f42-96e17159a08a.png)
+![qqplot_count](https://user-images.githubusercontent.com/14324327/29692867-224650b6-88e7-11e7-935e-379f750fb5cc.png)
